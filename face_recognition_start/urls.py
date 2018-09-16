@@ -1,4 +1,4 @@
-"""face_recognition URL Configuration
+"""face_recognition_for_school_monitoring URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/2.1/topics/http/urls/
