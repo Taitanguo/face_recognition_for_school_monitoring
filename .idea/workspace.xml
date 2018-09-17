@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc64244f-6ced-45d8-8dbe-9c3d541c6383" name="Default" comment="Recognize photo's human feature, like eyebrow/nose_bridge etc">
-      <change afterPath="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/face_recognition_from_webcam.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/photos/couple.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/photos/mi.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/photos/yangmi.jpg" afterDir="false" />
@@ -15,6 +14,7 @@
       <change beforePath="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition/settings.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition/urls.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/face_recognition_from_webcam.py" beforeDir="false" afterPath="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/face_recognition_from_webcam.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/facial_recognition_core.py" beforeDir="false" afterPath="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/facial_recognition_core.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../face_recognition_for_school_monitoring/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../face_recognition_for_school_monitoring/manage.py" afterDir="false" />
     </list>
@@ -28,7 +28,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/face_recognition$facial_recognition_core.coverage" NAME="facial_recognition_core Coverage Results" MODIFIED="1537115937544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/face_recognition" />
     <SUITE FILE_PATH="coverage/face_recognition_for_school_monitoring$facial_recognition_core__1_.coverage" NAME="facial_recognition_core (1) Coverage Results" MODIFIED="1537116019517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition" />
-    <SUITE FILE_PATH="coverage/face_recognition_for_school_monitoring$face_recognition_from_webcam.coverage" NAME="face_recognition_from_webcam Coverage Results" MODIFIED="1537141980595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/photos" />
+    <SUITE FILE_PATH="coverage/face_recognition_for_school_monitoring$face_recognition_from_webcam.coverage" NAME="face_recognition_from_webcam Coverage Results" MODIFIED="1537157085840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/photos" />
     <SUITE FILE_PATH="coverage/face_recognition_for_school_monitoring$facial_recognition_core__2_.coverage" NAME="facial_recognition_core (2) Coverage Results" MODIFIED="1537140336633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start" />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
@@ -58,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/facial_recognition_core.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="177">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -69,10 +69,10 @@
       <file leaf-file-name="face_recognition_from_webcam.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/face_recognition_from_webcam.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="210">
+              <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,8 +157,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start" />
       <recent name="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/photos" />
+      <recent name="$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start" />
       <recent name="$PROJECT_DIR$/face_recognition/photos" />
     </key>
   </component>
@@ -369,19 +369,25 @@
     <entry file="file://$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/facial_recognition_core.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/photos/guo.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/photos/tang.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/../face_recognition_for_school_monitoring/face_recognition_start/face_recognition_from_webcam.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="210">
+          <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
