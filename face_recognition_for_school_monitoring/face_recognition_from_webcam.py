@@ -28,7 +28,7 @@ known_face_encodings = [
 ]
 known_face_names = [
     "siyuan",
-    "tang"
+    "Luyan"
 ]
 
 # Initialize some variables
