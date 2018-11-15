@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc64244f-6ced-45d8-8dbe-9c3d541c6383" name="Default" comment="Recognize photo's human feature, like eyebrow/nose_bridge etc">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_recognition_start/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition_for_school_monitoring/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_recognition_start/face_recognition_from_webcam.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition_for_school_monitoring/face_recognition_from_webcam.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_recognition_start/facial_recognition_core.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition_for_school_monitoring/facial_recognition_core.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_recognition_start/photos/couple.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition_for_school_monitoring/photos/couple.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_recognition_start/photos/mi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition_for_school_monitoring/photos/mi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_recognition_start/photos/two_people.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition_for_school_monitoring/photos/two_people.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_recognition_start/photos/yangmi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition_for_school_monitoring/photos/yangmi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_recognition_start/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition_for_school_monitoring/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_recognition_start/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition_for_school_monitoring/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_recognition_start/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition_for_school_monitoring/wsgi.py" afterDir="false" />
-    </list>
+    <list default="true" id="cc64244f-6ced-45d8-8dbe-9c3d541c6383" name="Default" comment="Recognize photo's human feature, like eyebrow/nose_bridge etc" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
